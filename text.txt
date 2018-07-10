@@ -1,0 +1,1 @@
+Simple console chat, for Win/Lin. Only C++ and system API.
